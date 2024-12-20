@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Nashrah Ansari 👋
 
-<!--
-**NASHRAH20/NASHRAH20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! 😊  
 
-Here are some ideas to get you started:
+## About Me  
+- 🎓 I'm currently in my second year of *BE in Information Technology*.  
+- 🌟 I have completed the *MERN stack* at *Heuristic Academy* and love building full-stack web applications.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Skills 🚀  
+- *Frontend:*  
+  - HTML, CSS, JavaScript  
+  - React  
+  - Bootstrap  
+
+- *Backend:*  
+  - Node.js  
+  - Express.js  
+
+- *Database:*  
+  - MongoDB  
+  - SQL  
+
+- *Design & Tools:*  
+  - Canva  
+  - AI Knowledge  
+
+## What I’m Working On 💻  
+I'm constantly improving my skills and working on exciting projects to solve real-world problems. Stay tuned for updates!  
+
+## Let's Connect 🌐  
+Feel free to reach out to me for collaboration or discussions!  
+-📧 Email: [ansarinashrah716@gmail.com](mailto\:ansarinashrah716@gmail.com)
+
+-🌐 LinkedIn: [nashrahansari0720/](https://www.linkedin.com/in/nashrahansari0720/)
+
+Thanks for visiting my profile! 😊
